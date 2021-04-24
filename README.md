@@ -3,6 +3,7 @@ This repo contains three Java GUI applications:
   1. BMI Calculator
   2. Statistical Calculator
   3. Natural Number Calculator
+
 Note: all of them requires a valid JRE to run
 
 ### 1. BMI Calculator
