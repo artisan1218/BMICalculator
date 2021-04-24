@@ -60,9 +60,11 @@ Application window:
 
 Result display, calculation of 123456789+987654321:
 Enter 123456789 in the number pad, click enter, enter 987654321 in the number pad, click +:
+
 <img width="527" alt="image" src="https://user-images.githubusercontent.com/25105806/115974313-8c7d1700-a510-11eb-8921-f55f03e6fd13.png">
 
 Result display, calculation of 123 to the power of 6:
 Enter 123 in the number pad, click enter, then enter 6, click pow:
+
 <img width="527" alt="image" src="https://user-images.githubusercontent.com/25105806/115974369-10cf9a00-a511-11eb-99d5-36a157a4f124.png">
 
